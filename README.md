@@ -2,7 +2,7 @@
  CS:GO Main Menu Background Changer 
 <div align=center>
  <img alt="Logo" src="https://www.linkpicture.com/q/21831.Картинка-946x450-Гл.png">
- <img alt="Example" src=https://www.linkpicture.com/q/Counter-strike-Global-Offensive-Screenshot-2020.09.19-04.52.47.09.png">
+ <img alt="Example" src="https://www.linkpicture.com/q/Counter-strike-Global-Offensive-Screenshot-2020.09.19-04.52.47.09.png">
  <br>
  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/yonka2019/CSGO-BG-Changer">
  <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/yonka2019/CSGO-BG-Changer/total?color=2">
