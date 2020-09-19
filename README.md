@@ -11,7 +11,7 @@
 
 > ## Quick Install
 >
-> [Direct download](https://github.com/yonka2019/CSGO-BG-Changer/releases/download/1.0/CSGO.BG.Changer.by.yonka.rar) the latest version, or view all releases [here](https://github.com/yonka2019/CSGO-BG-Changer/releases).
+> [**Direct download**](https://github.com/yonka2019/CSGO-BG-Changer/releases/download/1.0/CSGO.BG.Changer.by.yonka.rar) the latest version, or view all releases [here](https://github.com/yonka2019/CSGO-BG-Changer/releases).
 
 > ---
 
