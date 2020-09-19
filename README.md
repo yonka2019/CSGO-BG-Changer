@@ -3,4 +3,6 @@
 <div align=center>
  <img alt="Logo" src="https://www.linkpicture.com/q/21831.Картинка-946x450-Гл.png">
  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/yonka2019/CSGO-BG-Changer">
+ <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/yonka2019/CSGO-BG-Changer/total?color=2">
+ <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/yonka2019/CSGO-BG-Changer?color=red&label=latest%20release">
 </div>
