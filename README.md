@@ -1,5 +1,5 @@
 # CSGO-BG-Changer
-<p alight=center> CS:GO Main Menu Background Changer </p>
+<p align=center> CS:GO Main Menu Background Changer </p>
 <div align=center>
  <img alt="Example-APP" src="https://www.linkpicture.com/q/Снимок-экрана-2020-09-19-045644.png">
  <img alt="Example-CS:GO" src="https://www.linkpicture.com/q/Counter-strike-Global-Offensive-Screenshot-2020.09.19-04.52.47.09.png">
