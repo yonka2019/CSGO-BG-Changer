@@ -23,6 +23,8 @@
 
 **Background Changer** is a software designed to simplify switching between different custom backgrounds for CS:GO.
 
+**59 Backgrounds** are pre-installed!
+
 This software is safe to use and is completely VAC safe.
 
 #### Features:
@@ -36,24 +38,27 @@ This software is safe to use and is completely VAC safe.
 
 ## How to use
 
-### 1 Apply background (Install)
+### 1 Unzipping folder
+ Unzip the folder (CSGO BG Changer \[by yonka\]) and start the file **CSGO_BG_Changer.exe**
+ 
+### 2 Background demo
+ To view the background (in the program) select the background which you want to view from the list.
+
+### 3 Apply background (Install)
  To select and install the **selected** background, press the green "Apply Selected Background" button, to view the background in CS:GO you must to change the background to "**Pheonix Facility** (in settings).
  
- ### 2 Add backgrounds
+### 4 Add backgrounds
 
  To add a background, press the green "+" button. (only .webm file extension supported!)
  
- ### 3 Remove background
+### 5 Remove background
 
  To delete a background from the Background Changer, you need to select it from the background library and then press the red "X" button.
  
-### 4 Background demo
- To view the background (in the program) select the background which you want to view from the list.
- 
-### 5 Return default background
+### 6 Return default background
  To return the default background, press the "Reset Background" button, if nothing changed, you should restore the local files of CS:GO:
  
- #### 5.1 How to restore local files of CS:GO
+ #### 6.1 How to restore local files of CS:GO
  1. Launch Steam
  2. From the Library section, right-click on the game and select Properties from the menu.
  3. Select the Local files tab and click the Verify integrity of game files... button.
