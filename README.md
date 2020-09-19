@@ -75,9 +75,8 @@ This software is safe to use and is completely VAC safe.
 
 The main window is consisting of a list view representing your current Background Library. These backgrounds can be applied to CS:GO.
 
-When a font is selected, the "Apply Selected Font" button will appear, pressing this will change the current CS:GO background.
-
-At the bottom of the window is CS:GO Path manager as well as a button to restore to the default CS:GO backgrounds, button to change display language,  button to reload the list of the backgrounds, button to open the folder of the backgrounds in the explorer and button to see additional information about Background Changer.
+At the bottom of the window is CS:GO Path manager as well as a button to restore to the default CS:GO backgrounds,  button to change display language,  button to reload the list of the backgrounds, button to open the folder of the backgrounds in the explorer and button to see additional information about Background Changer.
+You can also hover over "unnamed" button to get information about the button.
 
 #### 1.2 Language
 
