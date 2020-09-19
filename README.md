@@ -46,6 +46,7 @@ This software is safe to use and is completely VAC safe.
 
 ### 3 Apply background (Install)
  To select and install the **selected** background, press the green "Apply Selected Background" button, to view the background in CS:GO you must to change the background to "**Pheonix Facility** (in settings).
+ **CS:GO must be turned off** when changing background.
  
 ### 4 Add backgrounds
 
