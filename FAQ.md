@@ -26,7 +26,7 @@ Background Changer should warn of this on first launch. You can fix it by pressi
 - A: There is no way to do it inside the program itself. Therefore you'll just need to rename the background directory itself, to open the folder with the backgrounds, press the "Explorer" Button at the bottom of the main window.
 
 
-- **Q: How do I uninstall Background?**
+- **Q: How do I uninstall Background Changer?**
 - A: Well, there is not uninstaller. So you must delete the folder and the program yourself:
   1. Delete the folder: CSGO BG Changer [by yonka] (with the CSGO_BG_Changer.exe)
   2. **Done!** It's all gone :)
