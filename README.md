@@ -9,5 +9,87 @@
 
 > ## Quick Install
 >
-> [Direct download](https://github.com/WilliamRagstad/Font-Manager/releases/latest/download/FontManager.exe) the latest version, or view all releases [here](https://github.com/WilliamRagstad/Font-Manager/releases).
+> [Direct download](https://github.com/yonka2019/CSGO-BG-Changer/releases/download/1.0/CSGO.BG.Changer.by.yonka.rar) the latest version, or view all releases [here](https://github.com/yonka2019/CSGO-BG-Changer/releases).
+
+> ---
+
+
+
+
+
+# Introduction
+
+**Background Changer** is a software designed to simplify switching between different custom backgrounds for CS:GO.
+
+This software is safe to use and is completely VAC safe.
+
+#### Features:
+
+- Easy background management
+- Add any background (.webm)
+- One click background removal
+- Support for the new panorama update
+
+
+
+## How to use
+
+### 1 Add backgrounds
+
+ To add a background, press the green "+" button. (only .webm file extension supported!)
+ Also don't forget to change the background to **Pheonix Facility** in CS:GO settings.
+
+### 2 Remove background
+
+ To delete a background from the Font Manager, you need to select it from the font library and then press the red "X" button.
+ 
+### 3 Apply background (Install)
+ To select and install the **selected** background, press the green "Apply Selected Background" button, to view the background in CS:GO you must to change the background to "**Pheonix Facility** (in settings).
+ 
+### 4 Background demo
+ To view the background (in the program) select the background which you want to view from the list.
+ 
+### 5 Return default background
+ To return the default background, press the "Reset Background" button, if nothing changed, you should restore the local files of CS:GO:
+ 
+ #### 5.1 How to restore local files of CS:GO
+ 1. Launch Steam
+ 2. From the Library section, right-click on the game and select Properties from the menu.
+ 3. Select the Local files tab and click the Verify integrity of game files... button.
+ 4. Steam will verify the game's files - this process may take several minutes.
+
+
+
+
+## About
+
+### 1 Windows
+
+#### 1.1 Main
+
+The main window is consisting of a list view representing your current Background Library. These backgrounds can be applied to CS:GO.
+
+When a font is selected, the "Apply Selected Font" button will appear, pressing this will change the current CS:GO background.
+
+At the bottom of the window is CS:GO Path manager as well as a button to restore to the default CS:GO backgrounds, button to change display language,  button to reload the list of the backgrounds, button to open the folder of the backgrounds in the explorer and button to see additional information about Background Changer.
+
+#### 1.2 Language
+
+Check one of two languages (Russian/English) 
+
+### 2 Credits
+
+#### 2.1 Developers
+
+Background Changer is developed by **Yonka**
+
+### 3 More
+
+#### 3.1 FAQ
+
+Read the full [FAQ here](faq.md).
+
+#### 3.2 Need help?
+
+You can contact with me directly with Discord (Yonka#9992)
 
