@@ -3,9 +3,15 @@ FAQ
 
 - **Q: Will I risk being VAC banned?**
 
-- A: Short answer: **No**
+- A: No you cant! The program does not interfere with valve/steam/CS:GO in any way.
+     You can find serveral tutorials on how to change the background and that it's safe on YouTube.
+     This tool just makes things way easier😃
+     
+ - **Q: Is this tool save to use?**
 
-
+- A: Yes it is! you can even check the source code thats lit
+     
+     
 - **Q: My background won't work... What shall I do?**
 - A: There could me multiple reasons why your background doesn't work. Here are the general problems and solutions:
 
