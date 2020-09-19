@@ -7,6 +7,7 @@ FAQ
      You can find serveral tutorials on how to change the background and that it's safe on YouTube.
      This tool just makes things way easier😃
      
+     
  - **Q: Is this tool save to use?**
 
 - A: Yes it is! you can even check the source code thats lit
