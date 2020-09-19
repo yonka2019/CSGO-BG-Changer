@@ -1,7 +1,9 @@
 # CSGO-BG-Changer
- CS:GO Main menu background changer 
+ CS:GO Main Menu Background Changer 
 <div align=center>
  <img alt="Logo" src="https://www.linkpicture.com/q/21831.Картинка-946x450-Гл.png">
+ <img alt="Example" src=https://www.linkpicture.com/q/Counter-strike-Global-Offensive-Screenshot-2020.09.19-04.52.47.09.png">
+ <br>
  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/yonka2019/CSGO-BG-Changer">
  <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/yonka2019/CSGO-BG-Changer/total?color=2">
  <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/yonka2019/CSGO-BG-Changer?color=red&label=latest%20release">
@@ -34,17 +36,16 @@ This software is safe to use and is completely VAC safe.
 
 ## How to use
 
-### 1 Add backgrounds
+### 1 Apply background (Install)
+ To select and install the **selected** background, press the green "Apply Selected Background" button, to view the background in CS:GO you must to change the background to "**Pheonix Facility** (in settings).
+ 
+ ### 2 Add backgrounds
 
  To add a background, press the green "+" button. (only .webm file extension supported!)
- Also don't forget to change the background to **Pheonix Facility** in CS:GO settings.
-
-### 2 Remove background
-
- To delete a background from the Font Manager, you need to select it from the font library and then press the red "X" button.
  
-### 3 Apply background (Install)
- To select and install the **selected** background, press the green "Apply Selected Background" button, to view the background in CS:GO you must to change the background to "**Pheonix Facility** (in settings).
+ ### 3 Remove background
+
+ To delete a background from the Background Changer, you need to select it from the background library and then press the red "X" button.
  
 ### 4 Background demo
  To view the background (in the program) select the background which you want to view from the list.
