@@ -92,7 +92,7 @@ Background Changer is developed by **Yonka**
 
 #### 3.1 FAQ
 
-Read the full [FAQ here](faq.md).
+Read the full [FAQ here](FAQ.md).
 
 #### 3.2 Need help?
 
