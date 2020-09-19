@@ -53,7 +53,7 @@ This software is safe to use and is completely VAC safe.
  
 ### 5 Remove background
 
- To delete a background from the Background Changer, you need to select it from the background library and then press the red "X" button.
+ To delete a background from the Background Changer, you need to select it from the background list and then press the red "X" button.
  
 ### 6 Return default background
  To return the default background, press the "Reset Background" button, if nothing changed, you should restore the local files of CS:GO:
@@ -73,7 +73,7 @@ This software is safe to use and is completely VAC safe.
 
 #### 1.1 Main
 
-The main window is consisting of a list view representing your current Background Library. These backgrounds can be applied to CS:GO.
+The main window is consisting of a list view representing your current Background list. These backgrounds can be applied to CS:GO.
 
 At the bottom of the window is CS:GO Path manager as well as a button to restore to the default CS:GO backgrounds,  button to change display language,  button to reload the list of the backgrounds, button to open the folder of the backgrounds in the explorer and button to see additional information about Background Changer.
 You can also hover over "unnamed" button to get information about the button.
