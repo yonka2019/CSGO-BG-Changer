@@ -23,7 +23,7 @@
 
 **Background Changer** is a software designed to simplify switching between different custom backgrounds for CS:GO.
 
-**59 Backgrounds** are pre-installed!
+**58 Backgrounds** are pre-installed!
 
 This software is safe to use and is completely VAC safe.
 
