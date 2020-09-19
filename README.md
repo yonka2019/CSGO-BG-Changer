@@ -96,5 +96,5 @@ Read the full [FAQ here](faq.md).
 
 #### 3.2 Need help?
 
-You can contact with me directly with Discord (Yonka#9992)
+You can contact with me directly via Discord (Yonka#9992)
 
